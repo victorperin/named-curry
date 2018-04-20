@@ -1,0 +1,23 @@
+{
+  "name": "named-curry",
+  "version": "0.0.0",
+  "description": "A curry function to use with objects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorperin/named-curry.git"
+  },
+  "keywords": [
+    "curry",
+    "functional-programming"
+  ],
+  "author": "Victor Perin <me@victorperin.ninja>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorperin/named-curry/issues"
+  },
+  "homepage": "https://github.com/victorperin/named-curry#readme"
+}
