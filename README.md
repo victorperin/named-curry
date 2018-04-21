@@ -1,6 +1,13 @@
 # Named Curry
 Build curry functions without worry with the naming order.
 
+# :construction::construction::construction: Work In Progress :construction::construction::construction:
+
+This is not a production ready project.
+
+(Look at the disclaimer if you want to help. :v:)
+
+
 ## Basic usage
 ```javascript
 const namedCurry = require('named-curry')
