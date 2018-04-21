@@ -39,6 +39,7 @@ Any pull requests are wellcome to, even if we didn't mapped it yet (for now hehe
 ### Backlog
 This backlog will change with your help:
 
+- [ ] define lib name (there's already an `named-curry` with is not mantained)
 - [ ] moar tests
 - [ ] better organization (everything is in the index :see_no_evil: )
 - [ ] CI
